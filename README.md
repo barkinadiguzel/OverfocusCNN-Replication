@@ -71,6 +71,9 @@ OverfocusCNN-Replication/
 │   │
 │   └── config.py
 │
+├── images/
+│   └── figmix.jpg
+│
 ├── requirements.txt
 └── README.md
 ```
